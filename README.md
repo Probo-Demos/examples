@@ -5,9 +5,11 @@ Get started with [Probo.CI](https://probo.ci/) quickly using one of the examples
 
 [Probo.CI](https://probo.ci/) integrates with [GitHub](https://github.com/), [GitLab](https://gitlab.com/), and [Bitbucket](https://bitbucket.org/). We have provided each of our examples below on each service depending on what your organization uses.
 
-- https://github.com/probo-demos
-- https://gitlab.com/probo-demos
-- https://bitbucket.org/Probo-Demos
+- https://github.com/probo-demos/examples
+- https://gitlab.com/probo-demos/examples
+- https://bitbucket.org/Probo-Demos/examples
+
+**Note:** _Use only the repositories defined below in the `examples` respository of each service. Other repos are either for testing or have not yet been verified as known good examples. This will avoid headaches for you and support requests for us!_
 
 ## CMS Software
 
