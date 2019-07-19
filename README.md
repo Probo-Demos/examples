@@ -1,17 +1,17 @@
 # examples
-A collection of example projects for setting up Continuous Integration with Probo.CI.
+A collection of example projects for setting up Continuous Integration with [Probo.CI](https://probo.ci/).
 
-Get started with Probo.CI quickly using one of the examples below. Connect today's top CMS projects, static HTML generators, and other web applications.
+Get started with [Probo.CI](https://probo.ci/) quickly using one of the examples below. Connect today's top CMS projects, static HTML generators, and other web applications.
 
-Probo.CI integrates with GitHub, Bitbucket, and GitLab. We have provided each of our examples below on each platform depending on what your organization uses.
+[Probo.CI](https://probo.ci/) integrates with [GitHub](https://github.com/), [GitLab](https://gitlab.com/), and [Bitbucket](https://bitbucket.org/). We have provided each of our examples below on each service depending on what your organization uses.
 
 - https://github.com/probo-demos
 - https://gitlab.com/probo-demos
 - https://bitbucket.org/Probo-Demos
 
-## CMS & Web Applications
+## CMS Software
 
-Use the following example projects to quickly get up and running on Probo.CI with popular web applications including Drupal, Wordpress, Grav, Jekyll, and Gatsby.
+Use the following example projects to quickly get up and running on Probo.CI with popular CMS software including Drupal, Wordpress, Grav, and Concrete5.
 
 ### Drupal 8
 
@@ -25,17 +25,15 @@ Use the following example projects to quickly get up and running on Probo.CI wit
 - https://gitlab.com/probo-demos/probo-example-wordpress
 - https://bitbucket.org/Probo-Demos/probo-example-wordpress
 
-### Grav
-
-- https://github.com/Probo-Demos/probo-example-grav
-- https://gitlab.com/probo-demos/probo-example-grav
-- https://bitbucket.org/Probo-Demos/probo-example-grav
-
 ### Concrete5
 
 - https://github.com/Probo-Demos/probo-example-concrete5
 - https://gitlab.com/probo-demos/probo-example-concrete5
 - https://bitbucket.org/Probo-Demos/probo-example-concrete5
+
+## Static Site Generators / Flat File CMS
+
+Use the following example projects to quickly get up and running on Probo.CI with popular static site generators and flat file CMS software including Jekyll, Gatsby, and Grav.
 
 ### Jekyll
 
@@ -48,6 +46,12 @@ Use the following example projects to quickly get up and running on Probo.CI wit
 - https://github.com/Probo-Demos/gatsby-demo
 - https://gitlab.com/probo-demos/gatsby-demo
 - https://bitbucket.org/Probo-Demos/gatsby-demo
+
+### Grav
+
+- https://github.com/Probo-Demos/probo-example-grav
+- https://gitlab.com/probo-demos/probo-example-grav
+- https://bitbucket.org/Probo-Demos/probo-example-grav
 
 ## Testing Software and Testing APIs
 
